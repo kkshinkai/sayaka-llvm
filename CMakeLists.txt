@@ -1,3 +1,6 @@
+# Copyright (c) Kk Shinkai. All Rights Reserved. See LICENSE.txt in the project
+# root for license information.
+
 cmake_minimum_required(VERSION 3.20)
 
 project(SayakaLLVM)
